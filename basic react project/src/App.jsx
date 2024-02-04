@@ -7,6 +7,7 @@ function App() {
 
   return (
     <>
+      <h1>samad</h1>
       <div className='w-full h-screen duration-200'>
       style={{backgroundColor: color}}
       </div>
